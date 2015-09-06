@@ -1,0 +1,28 @@
+{
+  "name": "agar-cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/agar-cluster.git"
+  },
+  "author": "rick blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/agar-cluster/issues"
+  },
+  "homepage": "https://github.com/binRick/agar-cluster#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "express": "^4.13.3",
+    "fs-extra": "^0.24.0",
+    "node-dir": "^0.1.9",
+    "pm2": "^0.14.7",
+    "pretty-json": "^0.1.1",
+    "underscore": "^1.8.3"
+  }
+}
